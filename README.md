@@ -4,10 +4,10 @@ As i forget the popular song lyrics, i planned to code an application for lyrics
 
 # App Feautres :
 
-![Folk Song](https://raw.githubusercontent.com/PositiveZahid/BCStatistics/master/APK/Screenshot.png?raw=true "Folk Song")
+![Folk Song](https://raw.githubusercontent.com/PositiveZahid/FolkSong/master/APK/Screenshot.png?raw=true "Folk Song")
 
 # APK download
 
-https://github.com/PositiveZahid/BCStatistics/blob/master/APK/BCStatics.apk
+https://github.com/PositiveZahid/FolkSong/blob/master/APK/FolkSong.apk
 
  
