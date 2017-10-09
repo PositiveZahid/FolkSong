@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\ZahiD\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\ZahiD\Google Drive\Source Code\FolkSong\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-7037a2f90d8c0579f94931f1803112a08c9d2156.jar" />
+        <dex dex="C:\Users\User\Downloads\FolkSong-20171008T053656Z-001\FolkSong\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-6d90bce966f064a8e685230c71910ff0dabb9a41.jar" />
     </item>
     <item
-        jar="C:\Users\ZahiD\Google Drive\Source Code\FolkSong\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jar="C:\Users\User\Downloads\FolkSong-20171008T053656Z-001\FolkSong\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\ZahiD\Google Drive\Source Code\FolkSong\app\build\intermediates\pre-dexed\debug\classes-941006aa1b4771d3375325892837a26da70d00e2.jar" />
+        <dex dex="C:\Users\User\Downloads\FolkSong-20171008T053656Z-001\FolkSong\app\build\intermediates\pre-dexed\debug\classes-4d1ee299c24e5edd7d24d0e134cc8112fa97c908.jar" />
     </item>
     <item
-        jar="C:\Users\ZahiD\Google Drive\Source Code\FolkSong\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jar="C:\Users\User\Downloads\FolkSong-20171008T053656Z-001\FolkSong\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\ZahiD\Google Drive\Source Code\FolkSong\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-396c99fbb171e7e6c0889768a3879d27874bbc71.jar" />
+        <dex dex="C:\Users\User\Downloads\FolkSong-20171008T053656Z-001\FolkSong\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-8b2f4ede70db6ed48d77a0d82b12bcb4ba04447b.jar" />
     </item>
     <item
-        jar="C:\Users\ZahiD\Google Drive\Source Code\FolkSong\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jar="C:\Users\User\Downloads\FolkSong-20171008T053656Z-001\FolkSong\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\ZahiD\Google Drive\Source Code\FolkSong\app\build\intermediates\pre-dexed\debug\classes-7765f1b42a243574758310fa65d3168228f7a990.jar" />
+        <dex dex="C:\Users\User\Downloads\FolkSong-20171008T053656Z-001\FolkSong\app\build\intermediates\pre-dexed\debug\classes-ebeb297b45eb9947da59dbc1b83cc1d4e5a87235.jar" />
     </item>
 
 </items>
